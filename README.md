@@ -356,27 +356,27 @@ After every scheduled run, an email is sent to the configured receiver containin
 ## 🖼️ Screenshots
 
 ### 📌 Program Execution
-(Add execution.png)
+(Added ExecutionOnCommandLine.png)
 
 ---
 
 ### 📌 Generated Log File
-(Add log.png)
+(Added Log-File.png)
 
 ---
 
 ### 📌 Email Report
-(Add email.png)
+(Added Email-Received.png and Email-Sent.png)
 
 ---
 
 ### 📌 Folder Before Cleanup
-(Add before_cleanup.png)
+(Added Folder-Before-Clean-Up.png)
 
 ---
 
 ### 📌 Folder After Cleanup
-(Add after_cleanup.png)
+(Added Folder-After-Clean-Up.png)
 
 ---
 
